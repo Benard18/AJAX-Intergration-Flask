@@ -1,0 +1,12 @@
+#btn {
+	transition: all 1s ease !important;
+}
+#btn:hover{
+	background-color: red !important;
+	transition: all 1s ease !important;
+}
+.hide-me{
+	display: none;
+	visibility: hidden;
+	transition: all 1s ease !important;
+}
